@@ -143,8 +143,7 @@ The website emphasizes practical cybersecurity education:
 ## 📞 Contact & Support
 
 **LoveKush** - Cybersecurity & PC Building Expert
-- 📍 Location: Amritsar, Punjab, India
-- 📱 Phone: +91 79863 98078
+- 📍 Location: Punjab, India
 - 💬 Community: Join our discussion forums
 
 ### Get Personalized Advice
